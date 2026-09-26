@@ -1,24 +1,62 @@
 
-# Hangman Game
+# 🎯 Hangman Game
 
-## Description
-This is a simple Hangman game developed in Python. The player has to guess the hidden word by entering one letter at a time. The game allows a limited number of incorrect guesses before the player loses.
+A simple **Hangman Game** developed in **Python**, where the player guesses a hidden word one letter at a time. The game provides a limited number of incorrect attempts, making it a fun way to practice logical thinking and basic Python programming concepts.
 
-## Features
+---
+
+## ✨ Features
+
 - Random word selection
-- Letter-by-letter guessing
+- Letter-by-letter word guessing
 - Tracks incorrect guesses
-- Win/Lose message
-- Input validation
+- Displays win or lose messages
+- Validates user input
+- Easy-to-use command-line interface
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
+
 - Python 3
 - Google Colab
 
-## How to Run
-1. Open the notebook in Google Colab or Jupyter Notebook.
-2. Run all the cells.
-3. Follow the on-screen instructions to play the game.
+---
 
-## Author
-Geethika Annamreddy
+## 📚 Concepts Used
+
+- Variables and Data Types
+- Conditional Statements (`if`, `elif`, `else`)
+- Loops (`while`, `for`)
+- Lists and Strings
+- Functions
+- Random Module
+- User Input and Output
+
+---
+
+
+## ▶️ How to Run
+
+1. Clone this repository or download the project.
+2. Open the notebook using **Google Colab** or **Jupyter Notebook**.
+3. Run all the cells in order.
+4. Follow the on-screen instructions to play the game.
+
+---
+
+## 🎮 Gameplay
+
+```
+Word: _ _ _ _ _
+
+Guess a letter: a
+
+Correct guess!
+
+Word: _ a _ _ _
+```
+
+## 👩‍💻 Author
+
+**Geethika Annamreddy**
